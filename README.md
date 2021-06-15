@@ -1,0 +1,2 @@
+# MT_Seq2seq_Attention
+seq2seq+attention模型实现机器翻译-将西班牙语翻译为英语
